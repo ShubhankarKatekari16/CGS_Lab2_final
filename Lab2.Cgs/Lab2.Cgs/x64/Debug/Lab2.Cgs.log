@@ -1,0 +1,25 @@
+﻿  Main.cpp
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(146,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(154,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(155,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(156,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(157,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(168,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(169,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(170,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(171,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(178,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(179,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(180,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\mathCalculation.h(181,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\rasterization.h(5,40): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\rasterization.h(11,6): warning C4101: 'iResultAlpha': unreferenced local variable
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\rasterization.h(57,46): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\rasterization.h(57,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\rasterization.h(58,46): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\rasterization.h(58,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\rasterization.h(59,25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\Main.cpp(60,75): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\Main.cpp(75,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\Lab2.Cgs\Main.cpp(111,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Lab2.Cgs.vcxproj -> C:\Users\Shubhankar Katekari\source\repos\Lab2.Cgs\x64\Debug\Lab2.Cgs.exe
